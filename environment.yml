@@ -1,0 +1,9 @@
+name: myenv
+channels:
+  - anaconda
+dependencies:
+  - python=3.8
+  - pyqt
+  - pyqtwebengine
+  - cryptography
+# conda env create -f environment.yml
